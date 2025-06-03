@@ -611,6 +611,11 @@ body {
   .container {
     justify-content: center;
     padding-left: 0;
+    height:60vh;
+  }
+  
+  .gallery-container{
+    padding:0
   }
 
   .content-card {
